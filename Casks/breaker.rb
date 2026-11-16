@@ -1,6 +1,6 @@
 cask "breaker" do
-  version "1.2.0"
-  sha256 "c26dca9a5bcb489ff32bf41aa989bcd6552b2d8c507044f3bd683e4e5a2045e6"
+  version "1.2.1"
+  sha256 "28c5cbd5b7ea193dcf73ba0715cc7182b8e5c00aefbc7de4405e8e0a5eb4f533"
 
   url "https://github.com/wata/Breaker/releases/download/#{version}/Breaker-#{version}.zip"
   name "Breaker"
