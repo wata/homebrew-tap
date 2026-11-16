@@ -1,6 +1,6 @@
 cask "audioanchor" do
-  version "1.0.3"
-  sha256 "d1199b9a7f1ca1fe3039dd2d1706c433ec6755a315074a3b614847df88f4235f"
+  version "1.1.0"
+  sha256 "fd9845e0549527f5330e518fa0ea6db06f09eb45513be163e290e41081843b19"
 
   url "https://github.com/wata/AudioAnchor/releases/download/#{version}/AudioAnchor-#{version}.zip"
   name "AudioAnchor"
