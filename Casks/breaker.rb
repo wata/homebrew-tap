@@ -4,7 +4,7 @@ cask "breaker" do
 
   url "https://github.com/wata/Breaker/releases/download/#{version}/Breaker-#{version}.zip"
   name "Breaker"
-  desc "Notifies you when launchd jobs, cron jobs or SwiftBar plugins break"
+  desc "Notifies you when launchd jobs, cron jobs, Folder Actions, network or storage break"
   homepage "https://github.com/wata/Breaker"
 
   livecheck do
